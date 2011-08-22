@@ -1,0 +1,17 @@
+{
+  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "name": "bash",
+  "description": "Utilities for using bash from node.js.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/felixge/node-bash",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixge/node-bash.git"
+  },
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
