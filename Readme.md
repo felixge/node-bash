@@ -13,7 +13,7 @@ Example:
 
 ```javascript
 > bash.escape('hello world');
-// 'Hello\\ World'
+'Hello\\ World'
 ```
 
 ### bash.args(options, prefix, suffix)
