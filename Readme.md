@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/felixge/node-bash.png)](http://travis-ci.org/felixge/node-bash)
 # bash
 
 Utilities for using bash from node.js.
